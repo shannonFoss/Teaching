@@ -1,0 +1,94 @@
+Programming and Problem Solving - Java
+Shannon Foss
+
+Topics (to be) Covered
+----------------------
+       Level 1
+----------------------
+ 1. Intro
+ 2. Commenting and Formatting
+ 3. Data Types, Variables, Constants
+ 4. Operators & Operator Order of Precedence
+ 5. Type Casting
+ 6. Strings 
+ 7. Formatting Output & Decimal Formatting
+ 8. Basic Libraries - Math/String
+ 9. Relational Operators
+10. If Statements
+11. Flowcharts
+12. Logical Operators
+13. Nested If / Else If
+14. Enumerated Lists
+15. Switches
+16. Variable Scope
+17. While Loops
+18. Do-While Loops
+19. Nested Loops
+20. Debugging
+21. Sentinel Values
+22. User Input - Error Checking
+23. For Loops
+24. Top Down Design / Structure Charts
+25. Void Methods
+26. Method Parameters
+27. Return-Type Methods
+28. 1D Arrays
+29. Looping through an Array
+30. Copying & Comparing Arrays
+31. Searching/Sorting an Array
+32. 2D Arrays
+33. Objects
+34. Classes
+35. Instance Variables
+36. Constructor & Get/Set Methods
+37. Implicit & Explicit Parameters
+38. Overloading Methods/Constructor
+39. Static Variables and Methods
+40. Exception Handling
+41. File I/O
+42. String Delimiters 
+43. Applets 
+44. Drawing Shapes
+45. Running Applets on a Webpage
+46. Applet Methods
+47. Animating an Applet - Timer/TimerTask
+48. Mouse Events
+49. Key Events
+50. Action Events
+
+----------------------
+       Level 2
+----------------------
+ 1. Review - Software Design, Objects/Classes, Exception Handling
+ 2. Object Oriented Design
+ 3. Composition
+ 4. ArrayList
+ 5. Vectors
+ 6. Big-O Notation and Sorting Alorgithms
+ 6. Linked Lists
+ 7. Double-Linked Lists & Other Variations
+ 8. Stacks
+ 9. Queues
+10. Recursion
+11. Generics
+12. Trees
+13. Binary Trees
+14. Tree Traversal
+15. Binary Search Trees
+
+----------------------
+      Level 3
+----------------------
+ 1. Polymorphism
+ 2. Inheritance
+ 3. Interfaces
+ 4. Sorting/Searching
+ 5. Advanced Data Structures
+ 6. Generic Programming
+ 7. GUI Applications
+ 8. MultiThreading
+ 9. File I/O
+10. Exception Handling
+11. Binary I/O Streams
+12. Networking
+
